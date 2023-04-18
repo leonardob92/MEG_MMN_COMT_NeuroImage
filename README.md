@@ -1,6 +1,6 @@
 MEG_MMN_COMT_NeuroImage
 
-Matlab and Python leading scripts for the paper entitled: "Brain predictive coding processes are associated to COMT gene Val158Met polymorphism" published in NeuroImage (2021). Bonetti, L., Bruzzone, S.E.P., Sedghi, N.A., Haumann, N.T., Paunio, T., Kantojarvi, K., Kliuchko, M., Vuust, P., Brattico, E.
+Matlab leading script for the paper entitled: "Brain predictive coding processes are associated to COMT gene Val158Met polymorphism" published in NeuroImage (2021). Bonetti, L., Bruzzone, S.E.P., Sedghi, N.A., Haumann, N.T., Paunio, T., Kantojarvi, K., Kliuchko, M., Vuust, P., Brattico, E.
 
 https://www.sciencedirect.com/science/article/pii/S1053811921002317?via%3Dihub
 
